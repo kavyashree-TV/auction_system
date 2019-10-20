@@ -1,0 +1,6 @@
+{
+    "MongoDBHost" :"localhost",
+    "MongoDBDatabase":"test",
+    "MongoDBUsername":"test@123",
+    "MongoDBPassword":"testtest"
+}
